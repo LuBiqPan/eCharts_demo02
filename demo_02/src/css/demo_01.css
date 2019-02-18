@@ -1,0 +1,11 @@
+
+body{
+    background: #eeeeee;
+}
+
+.demo-div{
+    width: 600px;
+    height: 400px;
+    background: #aaaaaa;
+    margin-top: 10px;
+}
